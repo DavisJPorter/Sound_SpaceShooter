@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.4494998, g: 0.49649584, b: 0.55914414, a: 1}
+  m_IndirectSpecularColor: {r: 0.44950032, g: 0.49649626, b: 0.55914444, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2927,8 +2927,8 @@ MonoBehaviour:
   asteroidExplosion: {fileID: 8300000, guid: 3784351ca5f0f15478682e678c106ae3, type: 3}
   playerDamage: {fileID: 8300000, guid: 90f840019fd4e8441ae6fb82695df3af, type: 3}
   playerExplosion: {fileID: 8300000, guid: 1954558b7ea8dec449355595d5684017, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: 950a70d97d3790f48bebf6045f32bfa4, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: 55a660dcf5e9a4f4f9396f9ffde2762d, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: 1ca420ccfa45ca94fade4f7be17408c7, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 4dc0e8786b36a7e45bc2f2a38533c383, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
